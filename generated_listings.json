@@ -1,0 +1,203 @@
+[
+  {
+    "product_id": "15970",
+    "product_name": "Turtle Check Men Navy Blue Shirt",
+    "category": "Apparel",
+    "input_price_usd": 29.99,
+    "price_is_placeholder": true,
+    "image_path": "f:\\UserData\\Desktop\\AI_Consulting_and_Integration\\Week_01\\Day_4\\lab-api-calling-chatgpt\\product_images\\15970.jpg",
+    "model": "gpt-4o-mini",
+    "api_response_id": "chatcmpl-EWp3BoWBNgS1o9JI4n7OPn51n3hVT",
+    "generated_at_utc": "2026-10-08T20:30:43.976565+00:00",
+    "listing": {
+      "title": "Turtle Check Men Navy Blue Shirt",
+      "description": "This casual navy blue shirt features a stylish check pattern, perfect for everyday wear. Designed for comfort and versatility, it can be easily paired with jeans or chinos.",
+      "features": [
+        "Navy blue color with check pattern",
+        "Short sleeves for a relaxed fit",
+        "Button-down collar for a polished look",
+        "Casual style suitable for various occasions",
+        "Easy to pair with different outfits",
+        "Available in multiple sizes",
+        "Machine washable for easy care"
+      ],
+      "keywords": [
+        "men's navy blue shirt",
+        "casual check shirt",
+        "short sleeve shirt",
+        "Turtle Check shirt",
+        "men's apparel",
+        "stylish men's shirt",
+        "everyday wear shirt",
+        "comfortable casual shirt",
+        "button-down collar shirt",
+        "fashionable men's topwear",
+        "versatile men's clothing",
+        "check pattern shirt",
+        "men's summer shirt",
+        "affordable men's fashion"
+      ]
+    }
+  },
+  {
+    "product_id": "39386",
+    "product_name": "Peter England Men Party Blue Jeans",
+    "category": "Apparel",
+    "input_price_usd": 29.99,
+    "price_is_placeholder": true,
+    "image_path": "f:\\UserData\\Desktop\\AI_Consulting_and_Integration\\Week_01\\Day_4\\lab-api-calling-chatgpt\\product_images\\39386.jpg",
+    "model": "gpt-4o-mini",
+    "api_response_id": "chatcmpl-EWp3T9YgYrGkXb6p9amzsT6EGrJ9d",
+    "generated_at_utc": "2026-10-08T20:31:01.057883+00:00",
+    "listing": {
+      "title": "Peter England Men Party Blue Jeans",
+      "description": "These Peter England blue jeans are designed for casual wear, making them a versatile addition to any wardrobe. With a stylish fit, they are perfect for parties or everyday outings.",
+      "features": [
+        "Stylish blue color",
+        "Casual design",
+        "Comfortable fit",
+        "Durable fabric",
+        "Easy to pair with various outfits",
+        "Suitable for multiple occasions",
+        "Available in men's sizes"
+      ],
+      "keywords": [
+        "Peter England jeans",
+        "men's blue jeans",
+        "casual jeans for men",
+        "party wear jeans",
+        "comfortable jeans",
+        "stylish denim",
+        "affordable jeans",
+        "men's apparel",
+        "denim bottomwear",
+        "versatile jeans",
+        "fashionable men's jeans",
+        "everyday wear jeans",
+        "men's casual wear",
+        "blue denim jeans"
+      ]
+    }
+  },
+  {
+    "product_id": "59263",
+    "product_name": "Titan Women Silver Watch",
+    "category": "Accessories",
+    "input_price_usd": 24.99,
+    "price_is_placeholder": true,
+    "image_path": "f:\\UserData\\Desktop\\AI_Consulting_and_Integration\\Week_01\\Day_4\\lab-api-calling-chatgpt\\product_images\\59263.jpg",
+    "model": "gpt-4o-mini",
+    "api_response_id": "chatcmpl-EWp3WAMyMwq71woxjx0X82kQh8m8H",
+    "generated_at_utc": "2026-10-08T20:31:04.686599+00:00",
+    "listing": {
+      "title": "Titan Women Silver Watch",
+      "description": "The Titan Women Silver Watch features a sleek and elegant design perfect for casual wear. Its minimalist style is complemented by a silver-tone finish, making it a versatile accessory for any outfit.",
+      "features": [
+        "Stylish silver-tone finish",
+        "Minimalist design for casual wear",
+        "Easy-to-read white dial",
+        "Durable construction",
+        "Comfortable fit",
+        "Classic round shape",
+        "Versatile for various occasions"
+      ],
+      "keywords": [
+        "Titan watch",
+        "women's silver watch",
+        "casual accessories",
+        "stylish watches for women",
+        "minimalist watch design",
+        "silver-tone accessories",
+        "fashion watches",
+        "everyday wear watch",
+        "elegant women's watch",
+        "affordable silver watch",
+        "modern watch style",
+        "comfortable women's watch",
+        "round dial watch",
+        "durable women's accessories"
+      ]
+    }
+  },
+  {
+    "product_id": "21379",
+    "product_name": "Manchester United Men Solid Black Track Pants",
+    "category": "Apparel",
+    "input_price_usd": 29.99,
+    "price_is_placeholder": true,
+    "image_path": "f:\\UserData\\Desktop\\AI_Consulting_and_Integration\\Week_01\\Day_4\\lab-api-calling-chatgpt\\product_images\\21379.jpg",
+    "model": "gpt-4o-mini",
+    "api_response_id": "chatcmpl-EWp3awE87tScOjqypoAs86n3dFSqA",
+    "generated_at_utc": "2026-10-08T20:31:08.101969+00:00",
+    "listing": {
+      "title": "Manchester United Men Solid Black Track Pants",
+      "description": "These solid black track pants are designed for casual wear, featuring a comfortable fit for everyday activities. Ideal for fans of Manchester United, they combine style and functionality.",
+      "features": [
+        "Solid black color",
+        "Casual design",
+        "Men's fit",
+        "Elastic waistband for comfort",
+        "Stylish Manchester United logo",
+        "Suitable for everyday wear",
+        "Easy to pair with various outfits"
+      ],
+      "keywords": [
+        "Manchester United track pants",
+        "men's black track pants",
+        "casual bottomwear",
+        "sportswear for men",
+        "comfortable track pants",
+        "football fan apparel",
+        "men's activewear",
+        "stylish joggers",
+        "everyday casual pants",
+        "black athletic pants",
+        "men's fashion",
+        "sports clothing",
+        "Manchester United merchandise",
+        "men's leisurewear",
+        "track pants for men"
+      ]
+    }
+  },
+  {
+    "product_id": "53759",
+    "product_name": "Puma Men Grey T-shirt",
+    "category": "Apparel",
+    "input_price_usd": 29.99,
+    "price_is_placeholder": true,
+    "image_path": "f:\\UserData\\Desktop\\AI_Consulting_and_Integration\\Week_01\\Day_4\\lab-api-calling-chatgpt\\product_images\\53759.jpg",
+    "model": "gpt-4o-mini",
+    "api_response_id": "chatcmpl-EWp3dAfLrs1ACHgeaUzSXIyyMLSEt",
+    "generated_at_utc": "2026-10-08T20:31:11.249668+00:00",
+    "listing": {
+      "title": "Puma Men Grey T-shirt",
+      "description": "This Puma Men Grey T-shirt offers a stylish and comfortable fit for casual wear. Made for everyday use, it features a classic design that pairs well with various outfits.",
+      "features": [
+        "Casual style for everyday wear",
+        "Classic grey color",
+        "Short sleeves for breathability",
+        "Puma logo detail",
+        "Available in men's sizes",
+        "Easy to pair with jeans or shorts",
+        "Machine washable for easy care"
+      ],
+      "keywords": [
+        "Puma T-shirt",
+        "men's apparel",
+        "grey T-shirt",
+        "casual wear",
+        "short sleeve shirt",
+        "comfortable T-shirt",
+        "stylish men's clothing",
+        "everyday fashion",
+        "Puma clothing",
+        "men's casual tops",
+        "fashion T-shirts for men",
+        "affordable men's wear",
+        "trendy T-shirt",
+        "men's grey top"
+      ]
+    }
+  }
+]
